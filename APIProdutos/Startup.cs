@@ -45,7 +45,7 @@ namespace APIProdutos
                 c.SwaggerDoc("v1",
                     new OpenApiInfo
                     {
-                        Title = "Cadastro de Produtos",
+                        Title = "Cadastro de Produtos - 2o commit",
                         Version = "v1",
                         Description = "Exemplo de API REST criada com o ASP.NET Core 3.1 para manipulação de dados de produtos",
                         Contact = new OpenApiContact
